@@ -1,4 +1,4 @@
-Support & Privacy for [Your App Name]
+Support & Privacy for Scrobbly - Last.fm scrobbler for Apple Music
 Welcome to the official support page. We are committed to providing a seamless music tracking experience.
 
 🛠 Support
